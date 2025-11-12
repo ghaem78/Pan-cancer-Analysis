@@ -1,5 +1,5 @@
 # A Validated Pan-Cancer Atlas of Selective microRNAs
-# Code for: [Title of your paper]
+# Code for our article...
 
 This repository contains the complete R code for the bioinformatics analysis described in our paper. The analysis is divided into two main projects (TCGA Discovery and ICGC Validation) and split into four sequential scripts.
 
@@ -35,4 +35,5 @@ The scripts are numbered and designed to be run in order:
     * **Key Output:** `Final_Validation_Table.csv`.
 
 ## Requirements
+
 All required R packages (e.g., `TCGAbiolinks`, `DESeq2`, `survival`, `AnnotationDbi`) are listed at the top of each script.
